@@ -1,0 +1,9 @@
+7bb26a621ac8128bf976d1909d0d55f2 *DESCRIPTION
+f777496a49e6eb04286c1b6f903af346 *NAMESPACE
+d8b52e20797743ca40606f2b1fed3968 *NEWS.md
+2d3fb58ae056f61e57c7911f6356ccc0 *R/logOfGamma.R
+da8e567cd46e88dc4a9f5dbcd9557509 *README.md
+c371e8606478766c7c383d957087de84 *man/gammaln.Rd
+e39b2d1ce5204e6c4edd433a2c08317a *man/gammaln_internal.Rd
+37d26c1cda7288ca1f9b7a7c38b0bbb0 *tests/testthat.R
+491bd701336a51a6db6a0d7d9e4ec554 *tests/testthat/test_logOfGamma.R
